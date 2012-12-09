@@ -23,3 +23,8 @@ during November 2012::
 
 As you see as response from 'getEntriesReport' we have got list of time entry
 objects that have 'description' and 'hours' attributes. No xml parsing.
+
+Authors
+-------
+
+Vitaliy Podoba vitaliypodoba [at] gmail dot com
