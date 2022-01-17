@@ -1,1 +1,1 @@
-from basecamp import Basecamp
+from .basecamp import Basecamp
